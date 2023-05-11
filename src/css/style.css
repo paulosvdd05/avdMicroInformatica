@@ -1,0 +1,20 @@
+
+
+.textNav{
+    color: rgb(255, 255, 255);
+}
+.textNavGrey{
+    color: rgb(170, 170, 170);
+}
+
+.textGal{
+    font-size: 60px;
+    font-weight: lighter !important;
+   
+    
+}
+.textRes{
+    text-align: justify;
+    font-size: 14.7px;
+    
+}
